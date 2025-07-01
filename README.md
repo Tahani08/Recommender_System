@@ -1,6 +1,6 @@
 # 🎯 Recommender System
 
-A hybrid recommender system built in Python that delivers **personalized movie, book, and eatery suggestions** based on user preferences and data inputs.
+A hybrid recommender system built in Python that delivers **personalized movie, book, and eatery suggestions** based on user preferences and data inputs!
 
 ---
 
@@ -15,7 +15,7 @@ It was developed as part of a hands-on learning project to explore how recommend
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Modular reader classes: `BookReader`, `MovieReader`, and `SmallDukeEatsReader`
 - Central engine logic in `RecommenderEngine.py` and `RecommenderMaker.py`
